@@ -1,0 +1,234 @@
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\appsettings.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.exe
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.deps.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.runtimeconfig.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.pdb
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Azure.Core.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Azure.Identity.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Humanizer.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.CodeDom.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Text.Json.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.csproj.AssemblyReference.cache
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.AssemblyInfoInputs.cache
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.AssemblyInfo.cs
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.csproj.CoreCompileInputs.cache
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.RestaurantMyC-Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.build.RestaurantMyC-Api.props
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestaurantMyC-Api.props
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestaurantMyC-Api.props
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\scopedcss\bundle\RestaurantMyC-Api.styles.css
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.csproj.CopyComplete
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\refint\RestaurantMyC-Api.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.pdb
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.genruntimeconfig.cache
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\ref\RestaurantMyC-Api.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.DotNet.Cli.Utils.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Common.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Packaging.Core.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\cs\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\de\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\es\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\fr\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\it\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\ja\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\ko\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\pl\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\pt-BR\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\ru\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\tr\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\zh-Hans\Microsoft.DotNet.Cli.Utils.resources.dll
+E:\Bases de datos 2\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\zh-Hant\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\appsettings.Development.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\appsettings.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.exe
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.deps.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.runtimeconfig.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\RestaurantMyC-Api.pdb
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Azure.Core.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Humanizer.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Build.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.DotNet.Cli.Utils.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Common.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Packaging.Core.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\cs\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\de\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\es\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\fr\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\it\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\ja\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\ko\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\pl\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\pt-BR\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\ru\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\tr\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\zh-Hans\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\zh-Hant\Microsoft.DotNet.Cli.Utils.resources.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.csproj.AssemblyReference.cache
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.AssemblyInfoInputs.cache
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.AssemblyInfo.cs
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.csproj.CoreCompileInputs.cache
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.MvcApplicationPartsAssemblyInfo.cs
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.MvcApplicationPartsAssemblyInfo.cache
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.RestaurantMyC-Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.build.RestaurantMyC-Api.props
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestaurantMyC-Api.props
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestaurantMyC-Api.props
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\scopedcss\bundle\RestaurantMyC-Api.styles.css
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.csproj.CopyComplete
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\refint\RestaurantMyC-Api.dll
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.pdb
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\RestaurantMyC-Api.genruntimeconfig.cache
+D:\RestauratMyC\RestaurantMyC-Api\RestaurantMyC-Api\obj\Debug\net6.0\ref\RestaurantMyC-Api.dll
